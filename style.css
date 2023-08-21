@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.hcontainer{
+    display: flex;
+    background-color: rgb(213, 151, 36);
+    color: white;
+    height: 50px;
+    width: 100%;
+    justify-content: start;
+    align-items: center;
+    gap: 50px;
+    font-size: 25px;
+    font-weight: 900;
+    margin: 0%;
+}
+
+.team-name{
+    margin-left: 10px;
+}
+
+.container2{
+    display: flex;
+    width: 100%;
+    gap: 30px;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 10px;
+}
+
+.ac{
+    display: flex;
+    height: 500px;
+    width: 100%;
+    background-color: rgb(213, 151, 36);
+    color: white;
+    justify-content: space-around;
+}
+
+
